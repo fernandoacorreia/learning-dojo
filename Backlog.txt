@@ -1,0 +1,12 @@
+learning-dojo backlog
+=====================
+
+- Website scaffold.
+- List tasks from in-memory store.
+- View task details.
+- Allow deep linking to tasks.
+- Mark task as completed.
+- Create new task.
+- Edit task.
+- Delete task.
+- Find tasks.
