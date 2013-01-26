@@ -1,7 +1,6 @@
 learning-dojo backlog
 =====================
 
-- List tasks from in-memory store.
 - View task details.
 - Allow deep linking to tasks.
 - Mark task as completed.
